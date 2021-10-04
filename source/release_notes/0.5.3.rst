@@ -1,0 +1,30 @@
+0.5.3 beta
+==========
+
+Gimel Studio v0.5.3 beta was released "Apr. 13th 2021"
+
+
+End of the v0.5.x series
+------------------------
+
+This version was the **final version of the v0.5.x series**.
+
+This marks the end of the v0.5.x series and the start of the v0.6.x series, which is a total re-write and re-thinking of Gimel Studio.
+
+
+Node Graph
+----------
+
+ * Added help instructions as to Ctrl+LMB to connect the selected node to the output for quick viewing.
+ * Changed the node delete shortcut to ```del``` to be more consistent to other programs.
+
+Nodes
+-----
+
+ * Fixed flickering and unnecessary updating of properties panel for some nodes. Nodes can now be edited without the controls losing focus, etc
+
+
+Bug Fixes
+---------
+
+ * Some small visual fixes

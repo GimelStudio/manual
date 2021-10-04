@@ -1,0 +1,61 @@
+body.wy-body-for-nav {
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    line-height: 1.5em;
+    color: #333;
+    background-color: #e6e6e6;
+}
+
+nav.wy-nav-side {
+    background-color: #333;
+}
+
+.body--autocomplete-open .wy-nav-side {
+    position: absolute;
+    overflow: visible;
+}
+
+.body--autocomplete-open .wy-side-scroll {
+    overflow: visible;
+}
+
+div.wy-side-nav-search {
+    background-color: #f6f6f6 !important;
+}
+
+.wy-side-nav-search input[type="text"] {
+    border-radius: 4px !important;
+}
+
+.wy-nav-top {
+    background-color: #333;
+}
+
+.wy-side-nav-search>a:hover, .wy-side-nav-search .wy-dropdown>a:hover {
+    background: None;
+}
+
+.wy-side-nav-search input[type=text] {
+    border-color: #8d8d8d;
+}
+
+.wy-side-nav-search .wy-dropdown>a, .wy-side-nav-search>a {
+    color: #333;
+}
+
+.wy-side-nav-search .wy-dropdown>a img.logo, .wy-side-nav-search>a img.logo {
+    width: 120px;
+    height: auto;
+}
+
+.wy-menu-vertical a:active{
+    color: #fff;
+    background-color: #5680c2;
+}
+
+.wy-menu-vertical header, .wy-menu-vertical p.caption {
+    color: #5680c2;
+}
+
+details {
+    margin-bottom: 1em;
+}

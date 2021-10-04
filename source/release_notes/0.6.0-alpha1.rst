@@ -1,0 +1,28 @@
+0.6.0 alpha 1
+=============
+
+Gimel Studio v0.6.0 alpha 1 beta is in progress. :)
+
+
+Start of the next generation
+----------------------------
+
+This is the start of the v0.6.x series, which is and has been, in development as a total re-write and re-thinking of Gimel Studio.
+
+
+Move to Github Organization
+---------------------------
+
+All the related Gimel Studio repositories were moved from the personal account at https://github.com/Correct-Syntax to the Gimel Studio Github organization at https://github.com/GimelStudio in an effort to make this more of a community-based project than before.
+
+
+New Github Repository
+---------------------
+
+The previous development repository at https://github.com/GimelStudio/Gimel-Studio was  archived and the new repository at https://github.com/GimelStudio/GimelStudio is the focus of all new development of Gimel Studio.
+
+
+New Landing Page
+----------------
+
+A new landing page at https://gimelstudio.github.io/ was setup, eventually to become the offical Gimel Studio website.

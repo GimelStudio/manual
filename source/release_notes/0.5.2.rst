@@ -1,0 +1,29 @@
+0.5.2 beta
+==========
+
+Gimel Studio v0.5.2 beta was released "March 4, 2021"
+
+
+General
+-------
+
+ * Refactoring and cleanup of code
+ * MacOs support was tested
+
+
+Node Graph
+----------
+
+ * Added new feature to toggle showing the rendered image as the node graph background. (With this setting enabled, the viewport does update slightly slower).
+
+
+Nodes
+-----
+
+ * Added **new core nodes**: *Crop* with the option for both square and circluar crop (thanks to @iwoithe)
+
+
+Bug Fixes
+---------
+
+ * It was found that the Add Node search bar was not working properly because of a possible bug in wxpython 4.1.1. Downgrading to 4.1.0 solves the issue.

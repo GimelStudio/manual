@@ -1,0 +1,78 @@
+0.4.2 beta
+==========
+
+Gimel Studio v0.4.2 beta was released "September 2020"
+
+v0.4.2 was mainly focused on adding more filetype support, improving stability/performance and fixing bugs. This release also includes 4 new core nodes for converting images to PBR maps for 3D as well as some misc. input and effect nodes.
+
+
+General
+-------
+
+ * Added support for exporting images as:
+  - BMP
+  - PCX
+  - GIF
+  - XBM
+  - EPS
+  - WEBP
+  - TGA
+  - TIFF
+
+ * Added OpenCV as a dependancy
+
+
+UI
+--
+
+ * Fixed layout issues
+  - Expanded Properties Panel and Image Viewport panels to look better by default
+  - Node Graph panel is now NOT floatable/dockable. The other panels can be docked around it though.
+ * Dark theme is now the default
+ * Fixed window title on project load and save
+ * Rendering message now shows up in the Image Viewport instead of in the center of the screen. :)
+
+
+Performance Improvements
+------------------------
+
+ * UI and renderer now run on separate threads (this means more speed and less GUI freeze!)
+
+
+Nodes
+-----
+
+ * Image node now has additional support for importing image filetypes:
+  - JPEG
+  - WEBP
+  - TGA
+  - TIFF
+
+ * Added 7 new core nodes
+  - Image Color
+  - Noise Image
+  - Effect Spread
+  - To AO Map
+  - To Specular Map
+  - To Bump Map
+  - To Roughness Map
+
+
+Node Graph
+----------
+
+ * Added Toggle Node Previews feature in context menu
+
+
+Project File
+------------
+
+ * Added intial error handling for opening corrupted/old files
+
+
+Bug Fixes
+---------
+
+  * Fixed bug with Output node preview
+  * Fixed bug with Image thumb not showing on file drag n' drop
+  * Fixed some issues on Linux
