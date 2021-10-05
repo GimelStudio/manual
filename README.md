@@ -16,8 +16,8 @@ The manual is written in ReStructuredText and uses Sphinx to build HTML and PDF 
 
 The Gimel Studio docs use the Sphinx package and a slighty customized readthedocs theme.
 
-``pip install -r requirements.txt``
-``make html``
+- ``pip install -r requirements.txt``
+- ``make html``
 
 You will find the HTML docs in the ``build`` folder.
 
