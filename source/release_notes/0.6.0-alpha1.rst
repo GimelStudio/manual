@@ -26,3 +26,20 @@ New Landing Page
 ----------------
 
 A new landing page at https://gimelstudio.github.io/ was setup, eventually to become the offical Gimel Studio website.
+
+Differences from the v0.5.x series
+----------------------------------
+
+* Now uses OpenImageIO with Numpy + OpenCV as the data exchange backend rather than Pillow.
+* GPU rendering support via GLSL shaders (currently limited to 8-bit)
+* Entirely new custom node graph widget via the gsnodegraph library
+* Custom widgets modeled after the look of Blender and Sketch via the gswidgetkit library.
+* UI translations including French and German
+* User preferences 
+* New docking layout (uses the same backend, but visually it is different)
+* Properties panel now has collapsible foldpanels and uses custom widgets
+* Improved support for MacOs
+* Better image thumbnail support
+* Many new nodes
+* 16-bit support for most nodes (work in progress)
+* Greatly improved Python API allowing for GLSL shaders, less boilerplate code, etc
