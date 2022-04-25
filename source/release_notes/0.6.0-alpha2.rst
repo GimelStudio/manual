@@ -1,0 +1,15 @@
+0.6.0 alpha 2
+=============
+
+Gimel Studio v0.6.0 alpha 2 was released "Jan. 10th 2022"
+
+
+General
+-------
+
+This release mainly built upon the previous release with fixes to the UI and backend as well as new features.
+
+Notable features of this release:
+
+* Project file open/save
+* Various UI improvements and adjustments

@@ -1,13 +1,13 @@
 0.6.0 alpha 1
 =============
 
-Gimel Studio v0.6.0 alpha 1 beta is in progress. :)
+Gimel Studio v0.6.0 alpha 1 was released "Nov. 25th 2021"
 
 
 Start of the next generation
 ----------------------------
 
-This is the start of the v0.6.x series, which is and has been, in development as a total re-write and re-thinking of Gimel Studio.
+This was the start of the v0.6.x series, a new series with a rewrite of a lot of the code and many new ideas introduced.
 
 
 Move to Github Organization
@@ -19,13 +19,14 @@ All the related Gimel Studio repositories were moved from the personal account a
 New Github Repository
 ---------------------
 
-The previous development repository at https://github.com/GimelStudio/Gimel-Studio was  archived and the new repository at https://github.com/GimelStudio/GimelStudio is the focus of all new development of Gimel Studio.
+The previous development repository at https://github.com/GimelStudio/Gimel-Studio was  archived and the new repository at https://github.com/GimelStudio/GimelStudio became the focus of all new development of Gimel Studio.
 
 
 New Landing Page
 ----------------
 
-A new landing page at https://gimelstudio.github.io/ was setup, eventually to become the offical Gimel Studio website.
+A new landing page at https://gimelstudio.github.io/ was setup as the offical Gimel Studio website.
+
 
 Differences from the v0.5.x series
 ----------------------------------
@@ -43,3 +44,5 @@ Differences from the v0.5.x series
 * Many new nodes
 * 16-bit support for most nodes (work in progress)
 * Greatly improved Python API allowing for GLSL shaders, less boilerplate code, etc
+
+And more..
