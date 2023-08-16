@@ -7,7 +7,7 @@ Read the latest version of the manual at [https://gimelstudio.readthedocs.io/en/
 
 ## Contributing
 
-All contributions are welcome! We can use help updating and adding to the current sections for the v0.6.x series. Fixing typos is always appreciated. ;)
+All contributions are welcome!
 
 The manual is written in ReStructuredText and uses Sphinx to build HTML and PDF versions, etc.
 
@@ -24,4 +24,4 @@ You will find the HTML docs in the ``build`` folder.
 
 ## License
 
-Licensed under the Apache 2.0 License. © Copyright 2019-2021, Noah Rahm and contributors.
+Licensed under the Apache 2.0 License. Copyright 2019-2023, Noah Rahm and contributors.

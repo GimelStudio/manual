@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gimel Studio'
-copyright = '2019-2021, Noah Rahm and contributors'
+copyright = '2019-2023, Noah Rahm and contributors'
 author = 'Noah Rahm and contributors'
 
 
