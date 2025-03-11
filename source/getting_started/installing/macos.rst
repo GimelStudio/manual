@@ -1,17 +1,17 @@
 *********************
-Installing on MacOs
+Installing on macOs
 *********************
 
 .. warning::
 
   **This part of the documentation is still WIP.**
 
-Currently, no MacOs binaries are available. See the building from source documentation.
+Currently, there are no macOs binaries are available. See the building from source documentation.
 
 
 Install
 =======
 
 
-Updating on MacOs
+Updating on macOs
 ===================

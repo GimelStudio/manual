@@ -2,29 +2,25 @@
 Installing Gimel Studio
 #######################
 
-.. warning::
-   This documentation mainly talks about version v0.5.3 as **new documentation needs to be written for the upcoming 0.6.x series**. (If you would like to help in the documentation effort, please let us know).
-
-
 System Requirements
 ===================
 
 Gimel Studio is available for download on Windows and Linux operating systems. Gimel Studio does not have any known (major) system requirements if building from source.
 
-The official distributed binary packages require:
+The official distributed binaries require:
 
-- Windows 7, 8, 10+ or Linux Mint 20/Ubuntu 20+ (other systems not yet tested)
+- Windows 10+ or Ubuntu 20+
 - 64-bit system
 
 Minimum
 -------
 
-- 1GB RAM
+- 2GB RAM
 
 Recommended
 -----------
 
-- 4GB+ RAM
+- 8GB+ RAM
 - 3-button mouse with scroll wheel (for better control when moving nodes, selecting, etc.)
 - Full HD display or higher
 
@@ -32,7 +28,7 @@ Recommended
 Download Gimel Studio
 =====================
 
-`Latest Release <https://correctsyntax.com/projects/gimel-studio/>`__
+`Latest Release <https://gimelstudio.com>`__
    This is a binary distribution of the latest version of Gimel Studio.
 
 

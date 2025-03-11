@@ -2,7 +2,7 @@
 Installing on Windows
 *********************
 
-Download the zip-file for the desired release of Gimel Studio you want to install from the `website <https://correctsyntax.com/projects/gimel-studio/>`__.
+Download the zip-file for the desired release of Gimel Studio you want to install from the `website <https://gimelstudio.com>`__.
 
 
 Install
@@ -20,6 +20,4 @@ For ease of access, you can configure your system by adding a menu entry or shor
 Updating on Windows
 ===================
 
-When an update for Gimel Studio is released, it can be downloaded directly
-from the `website <https://correctsyntax.com/projects/gimel-studio/>`__
-and extracted to the desired folder, where you can double click the executable and launch the application.
+When an update for Gimel Studio is released, it can be downloaded directly from the `website <https://gimelstudio.com>`__ and extracted to the desired folder, where you can double click the executable and launch the application.

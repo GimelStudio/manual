@@ -2,7 +2,10 @@
 Installing on Linux
 *******************
 
-Download the Linux version file for the desired release of Gimel Studio you want to install from the `website <https://correctsyntax.com/projects/gimel-studio/>`__.
+Download the Linux version zip-file for the desired release of Gimel Studio you want to install from the `website <https://gimelstudio.com>`__.
+
+.. note::
+    Gimel Studio supports Ubuntu 20.04.1 LTS+.
 
 
 Install
@@ -18,6 +21,4 @@ For ease of access, you can configure your system by adding a menu entry or shor
 Updating on Linux
 =================
 
-When an update for Gimel Studio is released, it can be downloaded directly
-from the `website <https://correctsyntax.com/projects/gimel-studio/>`__
-and uncompressed into the desired folder, where you can double click the executable and launch the application.
+When an update for Gimel Studio is released, it can be downloaded directly from the `website <https://gimelstudio.com>`__ and uncompressed into the desired folder, where you can double click the executable and launch the application.

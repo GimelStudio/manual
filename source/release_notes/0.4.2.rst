@@ -28,6 +28,7 @@ UI
  * Fixed layout issues
   - Expanded Properties Panel and Image Viewport panels to look better by default
   - Node Graph panel is now NOT floatable/dockable. The other panels can be docked around it though.
+
  * Dark theme is now the default
  * Fixed window title on project load and save
  * Rendering message now shows up in the Image Viewport instead of in the center of the screen. :)

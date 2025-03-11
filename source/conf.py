@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Gimel Studio'
-copyright = '2019-2023, Noah Rahm and contributors'
-author = 'Noah Rahm and contributors'
+copyright = '2019-2025, Gimel Studio contributors'
+author = 'Gimel Studio contributors'
 
 
 # -- General configuration ---------------------------------------------------
@@ -59,8 +59,9 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-# Logo
-html_logo = "./logo.png"
+# Logo and favicon
+html_favicon = '_static/icon.png'
+html_logo = '_static/icon.png'
 
 # Setup
 def setup(app):
